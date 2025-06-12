@@ -1,0 +1,60 @@
+﻿  game.c
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(116,6): error C2374: 'ball2Unlocked': yeniden tanımlama; birden fazla başlatma
+      C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(114,6):
+      'ball2Unlocked' bildirimine bakın
+  
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(117,6): error C2374: 'ball2SelectionStage': yeniden tanımlama; birden fazla başlatma
+      C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(115,6):
+      'ball2SelectionStage' bildirimine bakın
+  
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(326,70): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(326,77): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(326,95): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(326,115): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(336,88): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(336,95): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(336,113): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(336,133): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(346,88): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(346,95): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(346,113): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(346,133): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(356,70): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(356,77): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(356,91): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(356,106): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(400,55): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(400,78): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(437,45): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(437,57): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(459,48): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(459,61): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(474,47): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(474,60): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(490,48): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(490,61): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(505,47): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(505,60): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(518,55): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(518,78): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(248,36): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(248,47): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(269,52): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(270,52): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(279,46): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(280,46): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(901,55): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(903,55): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(927,42): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(927,63): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(956,34): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(956,47): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(907,44): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(907,60): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(1093,62): warning C4244: 'işlev': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(1099,24): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(1099,31): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(1100,56): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(1101,47): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(1103,24): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\YUSUF RÜZGAR\source\repos\redball7\redball7\game.c(1103,31): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
